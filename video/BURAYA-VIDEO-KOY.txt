@@ -1,0 +1,10 @@
+Bu klasöre tanitim.mp4 adıyla videonuzu koyun.
+
+Öneriler:
+- Format: MP4 (H.264 kodek)
+- Çözünürlük: 1920x1080 yeterli
+- Süre: 20-40 saniye (hero videosu için)
+- Dosya boyutu: 5 MB'ı geçmesin. Geçiyorsa handbrake.fr ile sıkıştırın.
+- Hero videosu sessiz oynar, o yüzden ses şart değil.
+
+Video koymazsanız hero bölümü koyu zemin + hero-poster.jpg ile görünür.

@@ -1,0 +1,11 @@
+Bu klasöre şu isimlerle fotoğraf koyun (JPG, genişlik 1600px, kalite %70-80):
+
+  galeri-1.jpg ... galeri-8.jpg   Galeri fotoğrafları
+  hero-poster.jpg                 Hero videosunun kapak görseli
+  video-kapak.jpg                 Video bölümünün kapak görseli
+  og-kapak.jpg                    Sosyal medya paylaşım görseli (1200x630 px)
+
+Fotoğraf koymadan da site düzgün görünür; yerine renkli yer tutucu gelir.
+
+Fotoğrafları küçültmek için: squoosh.app (ücretsiz, tarayıcıda çalışır)
+Her fotoğraf 300 KB'ın altında olsun, yoksa site yavaşlar ve SEO düşer.
